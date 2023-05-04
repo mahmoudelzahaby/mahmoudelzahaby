@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mahmoud ElZahaby</h1>
 <h3 align="center">Seeking a challenging position in DevOps field within a multinational company where my skills and knowledge can be utilized and developed.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmouddahaby&label=Profile%20views&color=0e75b6&style=flat" alt="mahmouddahaby" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmouddahaby&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudelzahaby" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[https://github-profile-trophy.vercel.app/?username=mahmouddahaby](https://github.com/mahmoudelzahaby)" alt="mahmouddahaby" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmouddahaby" alt="mahmoudzahaby" /></a> </p>
 
 
 
