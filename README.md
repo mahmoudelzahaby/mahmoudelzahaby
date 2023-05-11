@@ -2,7 +2,18 @@
 #### DevOps Engineer
 DevOps Engineer with expertise in automating deployments and optimizing infrastructure. Proficient in Configuration Management and creating robust CI/CD pipelines. Skilled in cloud platforms such as AWS and GCP.
 
-Skills: KUBERNETES / DOCKER / PYTHON / BASH / CI/CD / AGILE / LINUX / TERRAFORM / ANSIBLE / AWS / GCP  / JS / HTML / CSS
+## Skills and Experience 
+* Containerization Tools : Docker, Kubernetes, Helm
+* Cloud providers: AWS , GCP
+* Iac : Terraform , ansible
+* Monitoring : Prometheus , Grafana
+* CI-CD Tools: Jenkins
+* Operation Systems : Linux Administration , Windows server
+* Scripting: Bash Shell , Python, Python(django)
+* Testing and Monitoring : Sonarqube , Prometheus , Grafana
+* Version Control: GitHub , Gitlab
+* Web Servers : Nginx , Apache
+* Database Engines: MySQL, NoSQL
 
 - 🌱 I’m currently learning DevOps 
 - 💬 Ask me about DevOps | Cloud 
