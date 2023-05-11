@@ -4,11 +4,11 @@
 ### DevOps Engineer with expertise in automating deployments and optimizing infrastructure. Proficient in Configuration Management and creating robust CI/CD pipelines. Skilled in cloud platforms such as AWS and GCP.
 
 ## Skills and Experience 
-- Containerization Tools : Docker, Kubernetes, Helm                                              - Cloud providers: AWS , GCP
-- Iac : Terraform , ansible                                                                      - Monitoring : Prometheus , Grafana
-- CI-CD Tools: Jenkins                                                                           - Testing and Monitoring : Sonarqube , Prometheus , Grafana
-- Scripting: Bash Shell , Python, Python(django)                                                 - Operation Systems : Linux Administration , Windows server
-- Version Control: GitHub , Gitlab                                                               - Database Engines: MySQL, NoSQL
+- Containerization Tools : Docker, Kubernetes, Helm                       - Cloud providers: AWS , GCP
+- Iac : Terraform , ansible                                               - Monitoring : Prometheus , Grafana
+- CI-CD Tools: Jenkins                                                    - Testing and Monitoring : Sonarqube , Prometheus , Grafana
+- Scripting: Bash Shell , Python, Python(django)                          - Operation Systems : Linux Administration , Windows server
+- Version Control: GitHub , Gitlab                                        - Database Engines: MySQL, NoSQL
 - Web Servers : Nginx , Apache
 
 -------------------------------------
