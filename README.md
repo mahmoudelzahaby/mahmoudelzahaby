@@ -5,14 +5,13 @@
 
 ## Skills and Experience 
 - Containerization Tools : Docker, Kubernetes, Helm                       
-- Cloud providers: AWS , GCP
-- Iac : Terraform , ansible                                               
-- Monitoring : Prometheus , Grafana
-- CI-CD Tools: Jenkins                                                    
-- Testing and Monitoring : Sonarqube , Prometheus , Grafana
+- Cloud providers: AWS , GCP, AZURE
+- Iac : Terraform , ansible                                            
+- CI-CD Tools: Jenkins, Atlantis                                                    
+- Testing and Monitoring : Sonarqube , Prometheus , Grafana , Datadog
 - Scripting: Bash Shell , Python, Python(django)                          
 - Operation Systems : Linux Administration , Windows server
-- Version Control: GitHub , Gitlab                                       
+- Version Control: GitHub , Gitlab , Bitbucket                                      
 - Database Engines: MySQL, NoSQL
 - Web Servers : Nginx , Apache
 
