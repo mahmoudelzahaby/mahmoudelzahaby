@@ -1,7 +1,7 @@
 # Hi there 👋, Mahmoud Elzahaby 
 -------------------------------------
 ### DevOps Engineer
-### DevOps Engineer with expertise in automating deployments and optimizing infrastructure. Proficient in Configuration Management and creating robust CI/CD pipelines. Skilled in cloud platforms such as AWS and GCP.
+### DevOps Engineer with expertise in automating deployments and optimizing infrastructure. Proficient in Configuration Management and creating robust CI/CD pipelines. Skilled in cloud platforms such as AZURE, AWS and GCP.
 
 ## Skills and Experience 
 - Containerization Tools : Docker, Kubernetes, Helm                       
