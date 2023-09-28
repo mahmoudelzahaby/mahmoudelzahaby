@@ -17,7 +17,7 @@
 
 -------------------------------------
 
-### 🌱 I’m currently Working as a DevOps
+### 🌱 I’m currently working as a DevOps
 ### 💬 Ask me about DevOps | Cloud 
 ### 📫 How to reach me: mahmoudelzahabii@gmail.com 
 
