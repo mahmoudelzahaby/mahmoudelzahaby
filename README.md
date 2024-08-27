@@ -7,7 +7,7 @@
 - Containerization Tools : Docker, Kubernetes, Helm                       
 - Cloud providers: AWS , GCP, AZURE
 - Iac : Terraform , ansible                                            
-- CI-CD Tools: Jenkins, Atlantis                                                    
+- CI-CD Tools: Jenkins, Atlantis, Github actions, Gitlab pipeline                                                 
 - Testing and Monitoring : Sonarqube , Prometheus , Grafana , Datadog
 - Scripting: Bash Shell , Python, Python(django)                          
 - Operation Systems : Linux Administration , Windows server
