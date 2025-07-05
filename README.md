@@ -2,7 +2,8 @@
 -------------------------------------
 ### DevOps Engineer
 ### DevOps Engineer with expertise in automating deployments and optimizing infrastructure. Proficient in Configuration Management and creating robust CI/CD pipelines. Skilled in cloud platforms such as AZURE, AWS and GCP.
-
+Languages and Tools:
+aws bash csharp docker gcp git graphql javascript jenkins kubernetes laravel linux mongodb mssql mysql nginx php python redis selenium
 ## Skills and Experience 
 - Containerization Tools : Docker, Kubernetes, Helm                       
 - Cloud providers: AWS , GCP, AZURE
